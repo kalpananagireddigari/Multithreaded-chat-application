@@ -93,3 +93,7 @@ The system forms a foundation for building scalable network-based applications.
 
 
 <img width="1894" height="1009" alt="Image" src="https://github.com/user-attachments/assets/bd5b433e-1447-4e2a-bb0d-d655660d13ef" />
+
+
+
+<img width="1894" height="1011" alt="Image" src="https://github.com/user-attachments/assets/f364487a-4543-4654-9aff-82e9ab44a5f2" />
